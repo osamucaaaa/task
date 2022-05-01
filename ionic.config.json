@@ -1,0 +1,8 @@
+{
+  "name": "task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bfa239f9"
+}
